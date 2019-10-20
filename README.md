@@ -65,9 +65,7 @@ This is an assignment project for Udacity Full Stack Nanodegree Log analysis pro
     '''
     > [Note]:
     >
-    > The script it self doesn't work with root previllages
-    >
-    > This just for installing dependances
+    > The script it self doesn't work with root previllages, This is just for installing dependances
     
     > You could have a look on the [official pip install](https://pip.pypa.io/en/stable/installing/)
     > for just 
