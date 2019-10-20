@@ -34,7 +34,8 @@ This is an assignment project for Udacity Full Stack Nanodegree Log analysis pro
 
 ### database
   - postresql
-    > this verion is a special programming for `new` database provided by Udacity Full Stack Nanodegree
+    > this verion is a special programming for `new` database
+    provided by [Udacity Full Stack Nanodegree](https://classroom.udacity.com/nanodegrees/nd004-ent/parts/72d6fe39-3e47-45b4-ac52-9300b146094f/modules/0f94ae26-c39d-4231-924b-b1eb6e06cf41/lessons/bc938915-0f7e-4550-a48f-82241ab649e3/concepts/a9cf98c8-0325-4c68-b972-58d5957f1a91)
 
 ### Python
   - either 2.x or 3.x is tested and running well
