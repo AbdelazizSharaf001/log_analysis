@@ -132,12 +132,19 @@ On which days did more than 1% of requests lead to errors:
 * tables is printed colored in terminal
 * self install requirements.txt
 
+## TO DO
+  * improve cli version
+    - interactive playground
+    - only get specific logs
+    - Make use of system arguments
+  * add web version
+
 ### Contributing
 
 > ### Contributors
 > * [Abdelaziz Sharaf](https://github.com/AbdelazizSharaf001)
 
-> Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](../../issues/new).
+> Pull requests and stars are always welcome. For bugs and feature requests, [Kindly create an issue](../../issues/new).
 
 ### Author
 
